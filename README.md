@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Max and I'm backend developer,
+- 💻 10 years of backend-development
+
 <!--
 **ZanMax/ZanMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
