@@ -2,6 +2,10 @@
 
 My name is Max and I'm backend developer,
 - 💻 10 years of backend-development
+- :notebook: I like to write about technology on [Python Blog](https://blog.python.org.ua/) and [Golang Blog](https://www.golang.li/)
+- :two_hearts: In love with Python, Go and VueJS
+- :seedling: Learning more about Cloud Architecture, Software Engineering and Machine Learning
+- :handshake: You can also find me on [LinkedIn](https://www.linkedin.com/in/maxim-zanoga/)
 
 <!--
 **ZanMax/ZanMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
