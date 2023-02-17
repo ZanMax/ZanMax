@@ -1,3 +1,7 @@
+<h2 align="center" style="font-family: Consolas, monospace;">
+	> $ whoami
+</h2>
+
 ### Hi there 👋
 
 My name is Max and I'm backend developer,
