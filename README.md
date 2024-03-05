@@ -4,9 +4,9 @@
 
 ### Hi there 👋
 
-My name is Max and I'm backend developer,
+My name is Max and I'm  🚀  AI Enthusiast | 🔍 Exploring the frontiers of LLMs & ML | 📚 Lifelong learner & tech optimist
 - 💻 10 years of backend-development
-- :notebook: I like to write about technology on [Python Blog](https://blog.python.org.ua/) and [AILab Blog](https://blog.ailab.sh/)
+- :notebook: I like to write about technology on [AILab Blog](https://blog.ailab.sh/)
 - :two_hearts: In love with Python, Go and VueJS
 - :seedling: Learning more about Cloud Architecture, Software Engineering and Machine Learning
 - :handshake: You can also find me on [LinkedIn](https://www.linkedin.com/in/max-zanoga/)
