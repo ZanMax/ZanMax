@@ -15,6 +15,9 @@ My name is Max and I'm  🚀  AI Enthusiast | 🔍 Exploring the frontiers of LL
 
 [![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://patreon.com/zanmax)
 [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-orange.svg)](https://www.buymeacoffee.com/ZanMax)
+[![Ko-fi](https://img.shields.io/badge/ko--fi-donate-orange.svg)](https://ko-fi.com/zanmax)
+[![PayPal](https://img.shields.io/badge/paypal-donate-orange.svg)](https://www.paypal.me/zanoga)
+
 <!--
 **ZanMax/ZanMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
