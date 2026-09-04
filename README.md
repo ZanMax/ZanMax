@@ -4,12 +4,22 @@
 
 ### Hi there 👋
 
-My name is Max and I'm  🚀  AI Enthusiast | 🔍 Exploring the frontiers of LLMs & ML | 📚 Lifelong learner & tech optimist
-- 💻 20+ years of software-development
+My name is Max — 🤖 AI/ML Engineer | 🧪 Co-founder of [LAB32.AI](https://lab32.ai) | ⚡ From backend systems to GPU racks
+
+- 🔬 I work on fine-tuning, inference serving, RAG & agent systems, and GPU cluster ops
+- 🖥️ Running a self-built **32 × RTX 3090** cluster — 768GB VRAM, 335,872 CUDA cores, InfiniBand, 100% solar-powered
+- 🎯 Focused on moving AI beyond prototypes into private deployments companies control themselves
+- 💻 20+ years in software development
 - :two_hearts: In love with Python, Go and VueJS
-- :seedling: Learning more about Cloud Architecture, Software Engineering and Machine Learning
-- :notebook: I like to write about technology on [AILab Blog](https://blog.ailab.sh/)
-- :handshake: You can also find me on [LinkedIn](https://www.linkedin.com/in/max-zanoga/)
+- :notebook: I write about technology on [AILab Blog](https://blog.ailab.sh/)
+- 🤗 Models & datasets from LAB32 experiments on [Hugging Face](https://huggingface.co/ZanMax)
+- :handshake: Find me on [LinkedIn](https://www.linkedin.com/in/max-zanoga/), [X](https://x.com/zanoga) or [zanmax.github.io](https://zanmax.github.io/)
+
+#### Open source tools
+
+- [**nvidia-fan-control**](https://github.com/ZanMax/nvidia-fan-control) — thermal management for dense multi-GPU systems (Python/Linux)
+- [**gpu-stats**](https://github.com/ZanMax/gpu-stats) — GPU metrics over a JSON API: utilization, memory, temperature (Go)
+- [**sshmenu**](https://github.com/ZanMax/sshmenu) — CLI utility for navigating cluster nodes (Shell)
 
 #### Support open source
 
@@ -20,15 +30,4 @@ My name is Max and I'm  🚀  AI Enthusiast | 🔍 Exploring the frontiers of LL
 
 <!--
 **ZanMax/ZanMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
