@@ -6,20 +6,23 @@
 
 My name is Max — 🤖 AI/ML Engineer | 🧪 Co-founder of [LAB32.AI](https://lab32.ai) | ⚡ From backend systems to GPU racks
 
-- 🔬 I work on fine-tuning, inference serving, RAG & agent systems, and GPU cluster ops
 - 🖥️ Running a self-built **32 × RTX 3090** cluster — 768GB VRAM, 335,872 CUDA cores, InfiniBand, 100% solar-powered
 - 🎯 Focused on moving AI beyond prototypes into private deployments companies control themselves
 - 💻 20+ years in software development
-- :two_hearts: In love with Python, Go and VueJS
-- :notebook: I write about technology on [AILab Blog](https://blog.ailab.sh/)
+- :two_hearts: In love with Python and Go
 - 🤗 Models & datasets from LAB32 experiments on [Hugging Face](https://huggingface.co/ZanMax)
 - :handshake: Find me on [LinkedIn](https://www.linkedin.com/in/max-zanoga/), [X](https://x.com/zanoga) or [zanmax.github.io](https://zanmax.github.io/)
 
-#### Open source tools
+#### What I work on
 
-- [**nvidia-fan-control**](https://github.com/ZanMax/nvidia-fan-control) — thermal management for dense multi-GPU systems (Python/Linux)
-- [**gpu-stats**](https://github.com/ZanMax/gpu-stats) — GPU metrics over a JSON API: utilization, memory, temperature (Go)
-- [**sshmenu**](https://github.com/ZanMax/sshmenu) — CLI utility for navigating cluster nodes (Shell)
+| | |
+|---|---|
+| 🛠️ **Develop** | Custom agents & RAG pipelines |
+| 🧠 **Training** | Fine-tuning (LoRA / QLoRA) |
+| ⚡ **Inference** | High-throughput serving |
+| 📉 **Optimization** | Quantization & kernels |
+| 📊 **Datasets** | Synthetic data generation |
+| 🔬 **Research** | Model eval & benchmarks |
 
 #### Support open source
 
